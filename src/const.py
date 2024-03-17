@@ -1,0 +1,7 @@
+# game screen
+WIDTH = 720
+HEIGHT = 720
+
+COLS = 8
+ROWS = 8
+SQSIZE = WIDTH // COLS
