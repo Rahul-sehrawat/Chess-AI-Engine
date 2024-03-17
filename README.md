@@ -1,6 +1,7 @@
 ## Getting Started
 
 run Rue_Chess.exe to run the project.
+
 run Rue_Chess_C.exe to run the project with console window.
 
 ## Documentation
