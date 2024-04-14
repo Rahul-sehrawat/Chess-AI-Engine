@@ -10,4 +10,10 @@ check out the documentation to learn about the development and other details of 
 
 ## Project Images
 
-![main menu](project_images/main_menu.png){:width ="300px"}
+![main menu](project_images/main_menu.png)
+
+![main menu](project_images/controls.png)
+
+![main menu](project_images/game1.png)
+
+![main menu](project_images/game2.png)
