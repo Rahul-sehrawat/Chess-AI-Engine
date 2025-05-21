@@ -84,9 +84,22 @@ This project analyzes chess games and visualizes the frequency of moves to each 
 - X and Y axes represent standard chessboard files (`a`-`h`) and ranks (`1`-`8`).
 - Color intensity shows the number of times a square is reached.
 
-Example code:
+### Overall data
 
-```python
-fig, ax = plt.subplots(figsize=(10,10))
-sns.heatmap(heatmap_frame, ax=ax, annot=True, cmap='YlGnBu')
-plt.show()
+![Overall_data](project_images/overall.jpg)
+
+### Knight data
+
+![Overall_data](project_images/knight.jpg)
+
+### Bishop data
+
+![Overall_data](project_images/Bishop.jpg)
+
+### Rook data
+
+![Overall_data](project_images/rook.jpg)
+
+### Queen data
+
+![Overall_data](project_images/queen.jpg)
