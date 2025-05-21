@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-df = pd.read_csv('e:/rue chess/chess heatmap/dataset/chess_games.csv')
+df = pd.read_csv('E:/RESUME PROJECY/rue chess/chess heatmap/dataset/chess_games.csv')
 to_remove_cols = list(df.columns)
 to_remove_cols.pop()  
 df = df.drop(columns = to_remove_cols)
